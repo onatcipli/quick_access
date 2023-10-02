@@ -1,6 +1,8 @@
-# example
+## Example 
 
-```
+![Screenshot 2023-10-02 at 21 44 26](https://github.com/onatcipli/quick_access/assets/26159899/764b170b-91c6-4038-bd72-7e0e2ffbb68a)
+
+```dart
     Column(
       mainAxisAlignment: MainAxisAlignment.center,
       children: <Widget>[
@@ -49,3 +51,4 @@
       ],
     )
 ```
+
